@@ -1,0 +1,3 @@
+graft aptool
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  aptool/jupy *
